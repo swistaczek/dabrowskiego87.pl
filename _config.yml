@@ -108,9 +108,9 @@ author:
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "Newsletter"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "http://eepurl.com/hUUVyP"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -130,6 +130,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Newsletter"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "http://eepurl.com/hUUVyP"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -147,7 +150,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/famma.dabrowskiego"
 
 
 # Reading Files

@@ -102,10 +102,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Wspólnota Mieszkaniowa"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Mieszkamy na Poznańskich Jeżycach! 🥔"
+  location         : "ul. Dąbrowskiego 87-89, Poznań"
   email            :
   links:
     - label: "Newsletter"
